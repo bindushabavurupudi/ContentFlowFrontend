@@ -67,4 +67,7 @@ Keeps audience engaged with variety.
 
 ## Screenshots
 ![Home Page](screenshots/login.png)
+![Dashboard Page](screenshots/dashboard.png)
+![Schedule Page](screenshots/schedule.png)
+![Analytics Page](screenshots/analytics.png)
 ## Video Walkthrough Link
