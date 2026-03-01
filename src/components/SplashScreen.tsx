@@ -34,7 +34,7 @@ export default function SplashScreen() {
 
       {/* Footer Text */}
       <p className="absolute bottom-8 text-gray-400 text-xs">
-        © 2024 ContentFlow. All rights reserved.
+        © 2026 ContentFlow. All rights reserved.
       </p>
     </div>
   );
