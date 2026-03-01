@@ -66,5 +66,5 @@ Keeps audience engaged with variety.
     http://localhost:8082
 
 ## Screenshots
-    ![Image](image.png)
+    ![Home Page](screenshots/home.png)
 ## Video Walkthrough Link
